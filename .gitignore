@@ -24,3 +24,6 @@ node_torrent/node_modules
 node_torrent/node_modules/*
 .node_torrent/node_modules
 .node_torrent/node_modules/*
+node_modules
+.node_modules/
+.node_modules/*

@@ -33,3 +33,9 @@ npm install --no-optional
 ```bash
 node app.njs -no-warnings 
 ```
+
+
+## git remove accidental folder added
+```bash
+git rm --cached -rf node_modules/
+```
