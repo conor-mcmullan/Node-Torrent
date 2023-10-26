@@ -5,17 +5,23 @@ nvm --version
 ```
 `0.39.5`
 
-## npm
-```bash 
-$ npm --version
-```
-`3.8.6`
-
 ## NodeJs
+### Install 
+```bash 
+nvm install node
+```
+### Version
 ```bash
 node --version 
 ```
-`v6.0.0`
+`v21.1.0`
+
+## npm
+### Version
+```bash 
+$ npm --version
+```
+`10.2.6`
 
 # Instructions
 ## Setup
